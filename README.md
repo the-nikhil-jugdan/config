@@ -1,4 +1,3 @@
-These are my default fish config. To set this up:
-* Clone this repo into ~/.config/fish
-* Install [fisher](https://github.com/jorgebucaran/fisher).
-* Run `fisher update`
+These are my default configs. To set this up:
+* Install GNU Stow
+* Run `stow <dir>` to setup a particular config
